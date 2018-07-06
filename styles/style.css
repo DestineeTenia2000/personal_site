@@ -73,10 +73,12 @@ footer{
   justify-content:space-around;
   align-items:center;
   flex-wrap: wrap;
-  position: absolute;
+bottom:0%; 
+ position:fixed;
+  
 }
 main{
-  padding -bottom:0%;
+  padding-bottom:0%;
   font-size:150%;
   position:relative;
 }
